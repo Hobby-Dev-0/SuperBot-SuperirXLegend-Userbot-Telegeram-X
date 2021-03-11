@@ -2,23 +2,21 @@
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/legendx22/LEGEND-BOT)
 [![HitCount](http://hits.dwyl.com/legendx22/LEGEND-BOT.svg)](http://hits.dwyl.com/legendx22/LEGEND-BOT)
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/legendx22)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/legendx22)(@pythonprogramingin)
 
 
 # LEGEND BOT
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 This is the one and only official LEGEND BOT Userbot made by [@LEGENDX22](https://t.me/LEGENDX22) Also join support channel and group :- https://t.me/teamishere Enjoy Your Bot!!💝
-[![LEGEND BOT logo](https://telegra.ph/file/a44f1363bddbba84a2b98.jpg)](https://t.me/teamishere)
+[![Superioir Bot logo](https://telegra.ph/file/fd0c6732fa1fdfeae2419.png)](https://t.me/teamishere)
 
-## STATUS OF THIS BOTS 
-<p align="left"><a href="https://github.com/legendx22/LEGEND-BOT/network/members"><img src="https://img.shields.io/github/forks/legendx22/LEGEND-BOT?label=Forks&logoColor=Silver&style=social"></a><p align="left"><a href="https://github.com/legendx22/LEGEND-BOT/stargazers"><img src="https://img.shields.io/github/stars/legendx22/LEGEND-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/legendx22/LEGEND-BOT"><img src="https://github-readme-stats.vercel.app/api/pin?username=legendx22&show_icons=true&theme=meta&hide_border=true&repo=legendx22/LEGEND-BOT"></a><p align="left"><a href="https://github.com/legendx22/LEGEND-BOT"><img src="https://img.shields.io/github/last-commit/legendx22/LEGEND-BOT?style=plastic"></a>
 
 # The owner would not be responsible for any kind of bans due to the bot...
 
 
 # STRING SESSION:-
-### [String Session](https://repl.it/@legendx22/LEGEND-BOT#main.py)
+### [String Session](https://repl.it/@amanpandey7647/LEGEND-BOT#main.py)
 
 # FORK AT YOUR OWN RISK
 ## Installing
@@ -34,7 +32,7 @@ This is the one and only official LEGEND BOT Userbot made by [@LEGENDX22](https:
 
 
 # Credits👀
-### • [LEGEND BOT](https://github.com/TeamLEGENDX/LegendBOT)
+### • [LEGEND BOT X Superior Bot](https://github.com/TeamLEGENDX/LegendBOT)
 ## One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 ## Official Support 💖
